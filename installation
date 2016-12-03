@@ -1,0 +1,2 @@
+sudo -H pip install "git+https://github.com/ujjwal-singh/pokedex-cli.git"
+sudo apt install sox
