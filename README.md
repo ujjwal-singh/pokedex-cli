@@ -1,2 +1,2 @@
-# pokedex-cli
+# pokedex
 Pokedex with images and voices
